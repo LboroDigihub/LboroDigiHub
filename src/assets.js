@@ -4119,6 +4119,13 @@ export default {
         "randomizationWeight": 25
       },
       {
+        "value": "torso-jacket_style-1-hoodie-1-black-SDCA",
+        "displayName": "Style 1 Hoodie 1 Black SDCA",
+        "description": {
+          "Type": "style-1",
+          "Outfit": "hoodie-1-black-SDCA"
+        }
+      {
         "value": "torso-jacket_style-1-hoodie-1-black",
         "displayName": "Style 1 Hoodie 1 Black",
         "description": {
@@ -4215,6 +4222,13 @@ export default {
         }
       },
       {
+        "value": "torso-jacket_style-2-hoodie-1-black-SDCA",
+        "displayName": "Style 2 Hoodie 1 Black SDCA",
+        "description": {
+          "Type": "style-2",
+          "Outfit": "hoodie-1-black-SDCA"
+        }
+       {
         "value": "torso-jacket_style-2-hoodie-1-black",
         "displayName": "Style 2 Hoodie 1 Black",
         "description": {
@@ -4322,6 +4336,7 @@ export default {
       },
       "Outfit": {
         "options": [
+          "hoodie-1-black-SDCA",
           "hoodie-1-black",
           "hoodie-1-blue",
           "hoodie-1-gray",
